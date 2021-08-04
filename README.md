@@ -1,6 +1,6 @@
-# The-Anki-Vector Based on Python Telegram Bot ![GitHub repo size](https://img.shields.io/github/repo-size/Damantha126/The-Anki-Vector?label=Repo%20Size)
+# The Sonya Based on Python Telegram Bot ![GitHub repo size](https://img.shields.io/github/repo-size/Pawan-Theekshana/Sonya?label=Repo%20Size)
 <p align="leaft">
-  <img src="https://telegra.ph/file/3b6aa07aac530199d5358.png" width='600"'>
+  <img src="https://telegra.ph/file/c340c7de2aaa6641b3aea.jpg" width='600"'>
 </p>
 # 2 Branches available. this is main brach. swith advaced fr all fetures
 
